@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/kirilllan/jenkins_tests/actions/workflows/node.js.yml/badge.svg)](https://github.com/kirilllan/jenkins_tests/actions/workflows/node.js.yml)
 # simple-node-js-react-npm-app
 
 This repository is for the
